@@ -1,0 +1,6 @@
+/*Divvino*/
+element :LoginDivvino, '#loginAutoUser'
+element :UsuarioDivvino, '#user'
+element :SenhaUsuarioDivvino, '.passUser'
+element :LogarDivvino, '#loginSubmit'
+element :LogadoDivvino, '#login-menu > ul > li:nth-child(1) > a'
